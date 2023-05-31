@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Article App</string>
+    <string name="hello_world">Hello World</string>
+    <string name="welcome">Welcome to Verry\'s Article App!</string>
+    <string name="menu_profile">Profile Menu</string>
+    <string name="back">Back</string>
+    <string name="verry">Verry R. Wibawa</string>
+    <string name="email">verryrwibawa@gmail.com</string>
+    <string name="verry_picture">Verry\'s Profile Picture</string>
+</resources>
